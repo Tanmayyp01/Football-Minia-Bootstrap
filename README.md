@@ -4,3 +4,4 @@
 * Maximum Design in css with flexbox property with proper use of div tag.
 * ChatGPT is used for content creation.
 * Out of ten, total 4 players information is added, others 6 players pages and information is pending.
+* Link : https://tanmayyp01.github.io/Football-Minia-Bootstrap/
